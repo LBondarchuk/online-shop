@@ -144,6 +144,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://sub.example.com",
     "http://localhost:8080",
+    "https://lbondarchuk.github.io/online-shop/",
     "http://127.0.0.1:9000",
     "https://online-shop-noih.onrender.com"
 ]
